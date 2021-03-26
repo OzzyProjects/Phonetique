@@ -2,7 +2,6 @@
 # !/usr/bin/env python
 
 """
-Auteur : ARMANGAU Etienne 21703622
 
 Il faut installer les modules suivants :
 pip install praat-parselmouth
