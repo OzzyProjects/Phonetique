@@ -1,5 +1,5 @@
 # phonetique
-projet de synthese vocale
+projet de synthese vocale (Le textgrid et le fichier audio vont arriver)
 
 Projet en python de synthese vocale (concatenation de diphones) à partir de phonemes enregistrés.
 
