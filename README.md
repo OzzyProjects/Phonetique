@@ -1,7 +1,7 @@
 # phonetique
-projet de synthese vocale (Le textgrid et le fichier audio vont arriver)
+projet de synthese vocale.
 
-Projet en python de synthese vocale (concatenation de diphones) à partir de phonemes enregistrés.
+Projet en python de synthese vocale (concatenation de diphones) à partir de phonemes enregistrés et annotés dans un TextGrid.
 
 Possibilités d'effectuer de nombreuses permutations par rapport aux phrases enregistrées de base.
 
